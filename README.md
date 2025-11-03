@@ -187,5 +187,3 @@ deliverables/
 | **Vulnerability Analysis** | Grype scan performed; top 5 CVEs or rationale for 0 findings; NVD context explained. | Scan missing or minimal discussion. | 7 |
 | **HBOM Exploration** | Three components documented with vendor, part #, and vulnerability context. | Fewer than three components or minimal discussion. | 6 |
 | **Reflection & Professionalism** | Clear, concise reflection; correct filenames; properly pushed to GitHub. | Minor clarity or submission issues. | 4 |
-
-**Total:** 25 Points
