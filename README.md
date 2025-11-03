@@ -77,9 +77,13 @@ All commands can be executed directly inside your GitHub Codespace using this re
 
    ```bash
    git clone https://github.com/m5stack/M5Cardputer.git
+   
    # or
+   
    git clone https://github.com/m5stack/M5StampFly.git
+   
    # or
+   
    git clone https://github.com/m5stack/M5StamPLC.git
    ```
 
@@ -122,7 +126,7 @@ All commands can be executed directly inside your GitHub Codespace using this re
    grype sbom:../deliverables/sbom_syft_spdx.json -o table > ../deliverables/vuln_analysis_grype.txt
    ```
 
-   > ✅ If Grype reports zero vulnerabilities, that’s fine — include an explanation of why.
+   > ✅ If Grype reports zero vulnerabilities, that’s fine - include an explanation of why.
 
 2. **In your report, include a Top 5 Vulnerabilities table:**
 
